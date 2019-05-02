@@ -30,7 +30,7 @@ test_integration_job:
     - ruby simpletest.rb
 
 deploy_dev_job:
-  stage: deploy
+  stage: review
   script:
     - echo 'Deploy'
   environment:
