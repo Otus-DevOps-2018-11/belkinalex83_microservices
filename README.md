@@ -106,3 +106,18 @@ Docker контейнер можно запустить в неизолиров�
 - Развернул локальное окружение для работы с Kubernetes
 - Развернул Kubernetes в GKE
 - Запустил reddit в Kubernetes
+
+=====================================================
+
+# ДЗ27:
+
+## В процессе сделано:
+Изучено:
+- Ingress Controller
+- Ingress
+- Secret
+- TLS
+- LoadBalancer Service
+- Network Policies
+- PersistentVolumes
+- PersistentVolumeClaims
